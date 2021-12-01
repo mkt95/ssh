@@ -1,8 +1,9 @@
 {
-    "domain": "ssh",
-    "name": "SSH Client",
-    "documentation": "https://github.com/ejonesnospam/ssh",
-    "dependencies": [],
-    "codeowners": ["@ejonesnospam"],
-    "requirements": ["paramiko==2.6.0"]
+  "domain": "ssh",
+  "name": "SSH Client",
+  "documentation": "https://github.com/mkt95/ssh",
+  "dependencies": [],
+  "codeowners": ["@mkt95"],
+  "requirements": ["paramiko==2.6.0"],
+  "version": "0.0.1"
   }
